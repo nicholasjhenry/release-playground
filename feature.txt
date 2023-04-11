@@ -1,2 +1,3 @@
 Feature 0.2.0-dev
 Refactor 0.2.0-dev
+Fix 0.2.0-rc.1
